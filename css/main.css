@@ -1,4 +1,14 @@
+body {
+	font-family: Arial;
+}
+
 .container {
 	width: 80%;
 	margin: auto;
+}
+
+header {
+	padding: 1em;
+	border-bottom: 1px solid #333;
+	font-size: 2rem;
 }
