@@ -14,3 +14,10 @@ header {
 	color: green;
 	font-weight: bold;
 }
+
+footer {
+	background: #333;
+	color: #FFF;
+	padding: 0.5em;
+	text-align: center;
+}
